@@ -10,6 +10,11 @@ namespace ICEx9_24
     {
         static void Main(string[] args)
         {
+
+            //using Array
+
+
+     
             int[] studentIDs = new int[3];
             studentIDs[0] = 1;
             studentIDs[1] = 2;
